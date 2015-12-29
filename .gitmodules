@@ -1,0 +1,9 @@
+[submodule "pass.cadiducho.com"]
+	path = pass.cadiducho.com
+	url = https://github.com/Cadiducho/pass.cadiducho.com
+[submodule "Shortener"]
+	path = Shortener
+	url = https://github.com/Cadiducho/Shortener
+[submodule "Cadiducho.com"]
+	path = Cadiducho.com
+	url = https://github.com/Cadiducho/Cadiducho.com
